@@ -1,7 +1,7 @@
 body {
     background-image: url("miffy.png");
     background-repeat: no-repeat;
-    background-position: 200px 95%;
+    background-position: 135px 95%;
     width: auto;
     height: auto;
 }
@@ -11,7 +11,7 @@ a {
 }
 ul {
     padding-top: 10px; padding-bottom: 10px;
-    width: 300px;
+    width: 270px;
     border-style: solid;
     border-width: medium;
     border-color: orange;
