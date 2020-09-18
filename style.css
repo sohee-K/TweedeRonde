@@ -2,6 +2,8 @@ body {
     background-image: url("miffy.png");
     background-repeat: no-repeat;
     background-position: 200px 95%;
+    width: auto;
+    height: auto;
 }
 a {
     text-decoration: none;
